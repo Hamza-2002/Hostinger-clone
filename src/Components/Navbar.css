@@ -1,0 +1,26 @@
+.navbar{
+    z-index: 10;
+}
+
+.active-navbar{
+
+    background-color: yellow;
+    color: black;
+}
+.Hosting:hover .submenu-1{
+    
+    display: block;
+    transition: all 0.5s ease-in-out;
+}
+
+.Vps:hover .submenu-2{
+    display: block;
+}
+
+.Email:hover .submenu-3{
+    display: block;
+}
+
+.Domain:hover .submenu-4{
+    display: block;
+}

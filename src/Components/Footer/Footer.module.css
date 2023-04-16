@@ -1,0 +1,19 @@
+.ul li{
+    text-transform: capitalize;
+    margin-top: 10px;
+ 
+
+}
+.ul li a {
+
+    color: blue;
+}
+.ul li a:hover{
+
+    color:  rgba(0, 0, 255, 0.678);
+}
+
+.social li{
+    display: ;
+
+}

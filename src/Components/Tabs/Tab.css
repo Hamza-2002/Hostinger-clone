@@ -1,0 +1,50 @@
+.mainTab{
+
+  
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Tab{
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 15px;
+    color:blue;
+    cursor: pointer;
+}
+.active-tab{
+    border-left: 5px solid purple;
+    border-radius: 2px;
+    color: purple;
+
+    cursor: pointer;
+}
+
+.content{
+    display: none;
+}
+
+.active-content{
+    display: block;
+    border:1px solid blue;
+    border-radius: 10px;
+    height: 250px;
+    padding: 20px;
+    margin-top: 80px;
+}
+.contentp {
+
+    width: 500px;
+    padding:10px;
+    
+
+}
+.contenth1{
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 10px;
+    color: blue;
+}

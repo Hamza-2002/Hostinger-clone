@@ -1,0 +1,9 @@
+.translate{
+
+    transform: translate(-50% , -50%);
+    z-index: 0;
+}
+
+.clock li{
+    padding: 30px;
+}
